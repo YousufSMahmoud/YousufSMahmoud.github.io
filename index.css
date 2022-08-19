@@ -1,0 +1,66 @@
+* {
+    background-color: rgb(45, 44, 44);
+    background-size: auto;
+}
+h1 {
+    color: rgba(199, 225, 228, 1);
+    padding: 1em 1em 1em 1em;
+    margin: 0px;
+    border: 0px;
+    font-size: 2em;
+}
+
+p {
+    color: rgba(199, 225, 228, 1);
+    padding: 2em 2em 0;
+    width: auto;
+    font-size: 4em;
+    
+
+}
+
+.logo {
+    display: inline-block;
+    margin: 0em;
+    border: 0px;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+
+}
+
+.html {
+    display: inline-block;
+    content: url("html5-logo.svg");
+    width: 10%;
+    padding: 0 5% 0 25%;
+
+
+}
+.css {
+    display: inline-block;
+    content: url("css3-logo.svg");
+    padding: 0 5% 0 0;
+    width: 10%;
+
+}
+
+.python {
+    display: inline-block;
+    content: url("Python_logo.svg");
+    padding: 0 5% 0 0;
+    width: 10%;
+    
+}
+
+.java {
+    display: inline-block;
+    content: url("java_logo.svg");
+    width: 10%;
+    padding: 0 0% 0 0;
+    
+}
+
+
